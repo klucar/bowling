@@ -1,0 +1,5 @@
+#surefire
+#Sat Aug 06 14:13:14 EDT 2011
+user.dir=/home/jim/code/git-repos/bowling
+localRepository=/home/jim/.m2/repository
+basedir=/home/jim/code/git-repos/bowling
